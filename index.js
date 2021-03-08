@@ -65,10 +65,14 @@ function init() {
     
     inquirer.prompt(questions)
         .then(function(answers){
-                console.log(answers)
-                generateMarkdown(answers)
+       
+               console.log(generateMarkdown(answers))
         })
 }
+
+fs.writeFile('ReadMeExample.md', generateMarkdown(data), (err) =>
+err ? console.log(err) : console.log('Success!')
+        );
 
 // Function call to initialize app
 init();
