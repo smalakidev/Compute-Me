@@ -10,7 +10,7 @@ function generateMarkdown(data) {
   ## Table of Contents:
   - [Title](#Title)
   - [Github](#Github)
-  - [description](#description)
+  - [descripti on](#description)
   - [installation](#installation)
   - [usage](#usage)
   - [License](#License)
@@ -24,6 +24,8 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}
   ## Tests
+  
+  ${data.tests}
   ## Questions
   For any questions, [mailto:${data.email}], or visit my [GitHub] (https://github.com/${data.Github}) 
  `;

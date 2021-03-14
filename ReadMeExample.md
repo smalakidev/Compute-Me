@@ -1,24 +1,26 @@
-# dsa
+# tell me the weather
   ![](https://img.shields.io/badge/License-MIT-blue)
   ## Description 
-  da
+  it's an app that tells you current weather and the 5 day forecast.
   ## Table of Contents:
   - [Title](#Title)
   - [Github](#Github)
-  - [description](#description)
+  - [descripti on](#description)
   - [installation](#installation)
   - [usage](#usage)
   - [License](#License)
   - [contributing](#contributing)
   ## Installation
-  ad
+  cloned from repo
   ## Usage
-  ad
+  to tell the weather
   ## License
   MIT
   ## Contributing
-  sda
+  non
   ## Tests
+  
+  non
   ## Questions
-  For any questions, [mailto:da], or visit my [GitHub] (https://github.com/dsfa) 
+  For any questions, [mailto:santoshmalaki@gmail.com], or visit my [GitHub] (https://github.com/smalakidev) 
  
