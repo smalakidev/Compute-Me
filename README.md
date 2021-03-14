@@ -45,5 +45,4 @@ There currently is no testing
 
 ## Link
 
-https://smalakidev.github.io/Tell-me-the-weather/
 
